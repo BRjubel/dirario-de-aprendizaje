@@ -1,2 +1,2 @@
-# dirario-de-aprendizaje
+# diario-de-aprendizaje
 Blog sobre IHM
